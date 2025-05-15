@@ -1,4 +1,4 @@
-# 📊 YHILLS PROJECTS
+# 📊 YHILLS PROJECT
 
 Welcome to my project repository under the **YHILLS Internship Program**.  
 This repo includes hands-on learning tasks, mini-projects, and experiments in **Python, Data Science, and Machine Learning**.
